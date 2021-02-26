@@ -1,0 +1,15 @@
+ul,li{
+    display: flex;
+}
+
+li{
+    padding:10px;
+    position: static;
+    text-align: center;
+}
+i{
+    margin-left: 60px;
+}
+.display{
+    display: flex;
+}
